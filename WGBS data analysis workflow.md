@@ -6,7 +6,7 @@ Being able to do the quantification reliably depends on quality control before a
 ```
 /home/u1995087/miniconda3/envs/wgbs_tools/bin/fastqc cabsau_R1.fastq -o /mnt/data/shuya/WGBS_modern/1_quality_control/
 ```
-==-o/--output_dir <dir>== Write all output files into this directory. 
+==-o/--output_dir <dir>==  Write all output files into this directory. 
 
 The input file, cabsau_R1.fastq 
 
