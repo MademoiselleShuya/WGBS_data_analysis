@@ -81,7 +81,7 @@ conda install -c bioconda trim-galore
 ### List current packages in the new env wgbs_tools
 
 ```
-conda env export -n wgbs_tool
+conda env export -n wgbs_tools
 ```
 
 
